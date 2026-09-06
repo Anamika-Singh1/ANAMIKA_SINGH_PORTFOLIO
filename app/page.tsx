@@ -36,10 +36,10 @@ const experience = [
       "Collaborate with developers, QA, designers, and stakeholders in Agile sprint cycles.",
       "Support deployment and maintenance using GCP, Vercel, and CI/CD workflows.",
       "Mentor junior team members and validate authentication, editor, analytics, and scheduling workflows.",
-      "Developed a testing website and an onboarding portal for production-facing business workflows.",
+      "Developed a tesAting website and an onboarding portal for production-facing business workflows.",
     ],
     links: [
-      { label: "Testing Website", href: "https://www.testaing.com/" },
+      { label: "testAing Website", href: "https://www.testaing.com/" },
       { label: "Onboarding Portal", href: "https://on-boarding-portal-dsaq-git-main-anuritgithubs-projects.vercel.app/" },
     ],
   },
