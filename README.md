@@ -73,6 +73,12 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 npm run build
 ```
 
+The Vercel deployment uses the Next.js build. To generate the Cloudflare/Vite output used by the local worker tests, run:
+
+```bash
+npm run build:vite
+```
+
 ### Run tests
 
 ```bash
